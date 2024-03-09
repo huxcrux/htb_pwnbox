@@ -2,7 +2,7 @@
 #This script is executed every time your instance is spawned.
 
 if [ -z "$USERNAME" ]; then
-    USERNAME=htb-realhux
+    USERNAME=realhux
 fi
 if [ -z "$GITUSER" ]; then
     GITUSER=huxcrux
